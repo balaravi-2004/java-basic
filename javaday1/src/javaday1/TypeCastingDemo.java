@@ -11,7 +11,7 @@ public class TypeCastingDemo {
 		double d = f;
 		System.out.println(d);
 		char ch = 'A';
-		int i3 = ch;
+		int i3 = ch;  
 		System.out.println(i3);
 		char var1 = '\u00A7';
 		int i4 = var1;
